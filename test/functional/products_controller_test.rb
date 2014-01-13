@@ -54,4 +54,6 @@ end
 
     assert_redirected_to products_path
   end
+
+#...
 end
